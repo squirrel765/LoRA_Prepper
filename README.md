@@ -11,7 +11,7 @@ LoRA/Stable Diffusion 학습 전에 필요한 주요 작업들을 빠르게 처�
 
 최신 버전은 아래 GitHub Releases 페이지에서 `.exe` 파일로 다운로드하실 수 있습니다:
 
-👉 [릴리스 페이지에서 다운로드하기](https://github.com/yourusername/LoRA_Prepper/releases)
+👉 [릴리스 페이지에서 다운로드하기](https://github.com/squirrel765/LoRA_Prepper/releases)
 
 > Windows에서 설치 없이 실행 가능하며, 별도 Python 환경이 필요하지 않습니다.
 
