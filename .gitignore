@@ -1,0 +1,23 @@
+# 파이썬 관련
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 가상환경
+.venv/
+env/
+ENV/
+
+# 빌드 결과물
+dist/
+build/
+*.spec
+
+# 임시 파일
+*.log
+*.tmp
+.DS_Store
+
+# VSCode 설정
+.vscode/
